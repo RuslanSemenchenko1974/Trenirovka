@@ -23,3 +23,4 @@ sizeBinary=count-1;
 {
     Console.Write(binaryArr[sizeBinary-count]);
 }
+// Программа работает
